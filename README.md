@@ -9,7 +9,7 @@ OptionMenu yarat,
 OptionMenu ‘de bir item seçilirse ,
 	if(item.getItemId() == R.id.menuID){...}
 
-/**********************************************/
+
 					İZİNLER
 İzin Kontrolü Yap,
 	VAR ise; SEÇ(action)
@@ -19,5 +19,5 @@ OptionMenu ‘de bir item seçilirse ,
 	NEGATIF ise; İZİN iste
 SEÇ işlemi Sonuçları,
 	Seçilen DATA bilgilerini AL
-/**********************************************/
+
 
