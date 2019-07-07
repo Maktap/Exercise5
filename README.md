@@ -2,8 +2,8 @@
 İzinler,Dosyaya Gitme,Resim Seçme,SQL'e kaydetme-geri çağırma
 
 Menu EKLEMEK
-OptionMenu yarat,
-	MenuInflater inflater =getMenuInflater();
+OptionMenu yarat,\n
+	MenuInflater inflater =getMenuInflater();\n
    inflater.inflate(R.menu.menu,menu);
 
 OptionMenu ‘de bir item seçilirse ,
