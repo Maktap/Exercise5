@@ -1,8 +1,10 @@
 # Exercise5
 İzinler,Dosyaya Gitme,Resim Seçme,SQL'e kaydetme-geri çağırma
 
-Menu EKLEMEK
-1-OptionMenu yarat,
+
+
+					Menu EKLEMEK
+OptionMenu yarat
 	MenuInflater inflater =getMenuInflater();\n
    inflater.inflate(R.menu.menu,menu);
 
@@ -19,5 +21,6 @@ OptionMenu ‘de bir item seçilirse ,
 	NEGATIF ise; İZİN iste
 SEÇ işlemi Sonuçları,
 	Seçilen DATA bilgilerini AL
+	
 
 
