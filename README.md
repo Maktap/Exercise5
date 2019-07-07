@@ -2,7 +2,7 @@
 İzinler,Dosyaya Gitme,Resim Seçme,SQL'e kaydetme-geri çağırma
 
 Menu EKLEMEK
-OptionMenu yarat,\n
+1-OptionMenu yarat,
 	MenuInflater inflater =getMenuInflater();\n
    inflater.inflate(R.menu.menu,menu);
 
