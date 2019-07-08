@@ -1,5 +1,5 @@
 # Exercise5
-İzinler,Dosyaya Gitme,Resim Seçme,SQL'e kaydetme-geri çağırma
+İzinler,Dosyaya Gitme,Resim Seçme,SQL'e kaydetme-geri çağırma,Silme
 
 
 
